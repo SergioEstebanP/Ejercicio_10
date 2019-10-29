@@ -8,7 +8,7 @@ table {
 td {
     border: black 1px solid;
   }
-#Canciones{
+.Canciones{
     font-weight: bold;
     font-style: italic;;
 }
