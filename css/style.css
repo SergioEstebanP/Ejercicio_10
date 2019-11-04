@@ -1,5 +1,10 @@
 body{
-    color: blanchedalmond;
+    color: silver;
+    background-image: url("../Photos/d9e9452a1c050dcd0b560ca034173af0.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
 }
 table {
     border-collapse: collapse;
